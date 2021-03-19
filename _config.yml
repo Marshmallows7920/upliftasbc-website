@@ -1,0 +1,7 @@
+# Site settings
+title: Uplift ASBC
+description: Your Interests Up high and up front
+keywords: asbc, arts, uofm, umanitoba
+author: UpliftAsbc
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
