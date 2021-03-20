@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yashas Samtani
-date: 2017-09-12 00:00:00 +0300
+date: 2021-01-28
 description: Director of Academic Programming. # Add post description (optional)
 img: yashas.jpg # Add image post (optional)
 tags: [Programming, Learn] # add tag
