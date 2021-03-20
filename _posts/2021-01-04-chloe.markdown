@@ -1,0 +1,14 @@
+---
+layout: post
+title: Chloe chloe's last name
+date: 2021-01-27
+description: her title # Add post description (optional)
+img: chloe.png # Add image post (optional)
+tags: [Programming, Learn] # add tag
+---
+chloe's stuff
+policies
+
+## this is a title
+
+#### this is a smaller title
