@@ -3,7 +3,7 @@ layout: post
 title: Camryn Anderson
 date: 2021-01-29
 description: Vice President # Add post description (optional)
-img: camryn.jpg # Add image post (optional)
+img: camryn.png # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
 
