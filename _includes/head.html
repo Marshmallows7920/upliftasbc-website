@@ -88,35 +88,37 @@
 
   <!-- Style for Navigation Bar -->
   <style>
-    /* ul {
+    ul.nav {
       list-style-type: none;
       margin: 0;
       padding: 0;
       overflow: hidden;
-      background-color: #333;
-      position: fixed;
+      /* background-color: #333; */
+      position: sticky;
       top: 0;
       width: 100%;
-    } */
+      align-self: center;
+    }
     
-    /* li #nav {
+    ul.nav li{
       float: left;
-    } */
+    }
     
-    /* li a{
+    ul.nav li a{
       display: block;
       color: white;
+      background-color: pink;
       text-align: center;
-      padding: 14px 16px;
+      padding: 5px 30px;
       text-decoration: none;
-    } */
+    }
     
-    /* li a:hover:not(.active){
-      background-color: #111;
-    } */
+    ul.nav li a:hover:not(.active){
+      background-color: rgba(225, 0, 255, 0.192);
+    }
     
-    .active{
-      background-color: #4CAF50;
+    ul.nav li a.active{
+      background-color: #9932CC;
     }
     </style>
 
