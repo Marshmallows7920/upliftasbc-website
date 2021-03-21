@@ -1,0 +1,20 @@
+---
+layout: post
+title: Sophie George
+date: 2021-01-28
+description: Senator. # Read about our Senator and her policies
+img: Sophie.png # Add image post (optional)
+tags: [Programming, Learn] # add tag
+---
+## Bio
+Hello everyone, my name is Sophie George (she/her) and I am a third-year Arts student majoring in theatre. I am extremely excited to announce that I will be running with Uplift ASBC as a Senator for the 2021-22 academic year! As the current Vice President of the English, Film, and Theatre Students’ Association and Member-at-Large of the Black Hole Theatre Company, I believe that I have the appropriate experience to represent Arts students as a Senator. The encounters I have had as a theatre student have advanced my passion for collaborative art and, as a Senator, I will implement various programs to allow students to showcase their work and engage with the Arts community. I am more than confident in my team’s ability to represent and support Arts students and I encourage you all to vote for Uplift ASBC on March 25th and 26th! 
+
+## Policies
+
+- Emphasize the importance of mental health and an understanding of the effect coursework and stress on students
+- Establish transparency between Arts students and the Senate by communicating new ideas and/or changes being implemented via technological platforms.
+- Advocate for compassionate grading for pandemic semesters.  
+
+
+
+

@@ -1,14 +1,17 @@
 ---
 layout: post
-title: Chloe chloe's last name
+title: Chloe Dreilich-Girard
 date: 2021-01-27
-description: her title # Add post description (optional)
+description: Director of Social Programming # Add post description (optional)
 img: chloe.png # Add image post (optional)
 tags: [Programming, Learn] # add tag
 ---
-chloe's stuff
-policies
+## Bio
+Hi everyone! My name is Chloe Dreilich-Girard (she/her) and I am a second year student currently pursuing my BA with a major in Criminology and minor in Psychology. I’m super excited to share that I am running for the position of Director of Social Programming this year with my team uplift ASBC. When I’m not busy with school or work you can often find me spending time with friends or working in initiatives with one of the various groups I’m involved with at the university. Throughout my time in university and being part of student council such as ASBC I have noticed that there is a need for more events, campaigns and info sessions that are inclusive, accessible and beneficial for all arts students. If elected, I plan to do this by showing arts students the plethora of career options out there for people with BA’s, having events that teach everyday skills and the importance of them in order to be successful during and post university as well as promoting the arts to prospective students while working towards the destigmatization of arts degrees. In addition to this I will also be working with my executive team to establish the ‘Canadian Coalition of Arts Student Bodies’, a cohort of Arts student councils in Manitoba and across Canada in order to identify our key issues in the Arts and advocate for them in our respective campuses. Through looking at mine and my team Uplift ASBC’s policies I trust you will see that our team has the capabilities and ideas needed to make this the best and most successful year possible for all arts students. So on March 25&26 don’t forget to vote for my team UPLIFT ASBC and myself as your next Director of Social Programming.
 
-## this is a title
+## Policies
 
-#### this is a smaller title
+Spearhead events to connect Arts students to the career and employment opportunities
+Host practical life skill events for students
+Advocate for the de-stigmatization of Arts degrees
+Work with Uplift ASBC's Executive team to establish the Canadian Coalition of Arts Student Bodies, an organization for Arts student councils in Canada

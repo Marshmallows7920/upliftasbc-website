@@ -1,0 +1,15 @@
+---
+layout: post
+title: Alex Rana
+date: 2021-01-24
+description: Racialized Representative. # Read about our Racialized Representative and her policies
+img: Alex.png 
+tags: [Programming, Learn] # add tag
+---
+## Bio
+Hey Arts Students! I’m Alex Rana (he/him) and I’m currently a second year student double majoring in English and Linguistics. I’m excited to announce I will be running with my team, Uplift ASBC, as your Racialized Representative! I’m a current UMSU Rep for U1SC, VP of Linguistic-ISH, and member of the Arts Tribune Editing Team. I’m very passionate about advocating for students and working to make this a community that supports all of us, especially those of us whose concerns often go unheard. This will be implemented by reaching out and building a solid relationship with groups that represent Racialized students on campus, creating initiatives that uplift our community, support our mental health, and combat some of the inequities we face, and increase engagement from our student community so ASBC can deliver the best possible experience here in Arts! With these factors in mind and your support, I’m confident that Uplift ASBC is the right choice for Arts Students! Vote Uplift ASBC and myself for your Racialized Rep on March 25 & 26. 
+
+## Policies
+- Work on developing an accessible list of those in the Student Counselling Centre who are currently trained in cultural counseling, as well as try to generate a list of some mental healthcare professionals outside of the university who are racialized themselves and thus understanding of issues of racism their clients may face
+- Ensure that racialized student’s voices and concerns are heard and amplified when it comes to engaging the Arts community
+- Encourage celebration and sharing of unique backgrounds, experiences, and community groups

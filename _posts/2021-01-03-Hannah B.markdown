@@ -1,0 +1,26 @@
+---
+layout: post
+title: Hannah Belec
+date: 2021-01-29
+description: UMSU Director. # Read about our UMSU Director and her policies
+img: Hannah B.png # Add image post (optional)
+tags: [Programming, Learn] # add tag
+---
+## Bio
+
+Hello everyone! My name is Hannah Belec (she/her), and I am a second-year history honours student in the Faculty of Arts. 
+I am delighted to announce that I will be running for the position of UMSU Director with my team Uplift ASBC. 
+As a current New Student Peer Mentor here at the University of Manitoba, I have recognized the need to advocate for Arts students’ mental health, enhance Arts students’ involvement and engagement in ASBC events and proceedings, and promote sustainability on campus. These issues will be addressed through the spearheading of new and improved mental health programming, a monthly online UMSU Board of Directors newsletter for Arts students, and Arts composting and recycling programs. 
+I am confident that my team, Uplift ASBC, and myself as UMSU Director are the right voices for Arts Students. Vote Uplift ASBC on March 25th and 26th.
+
+
+## Policies
+
+- Represent and voice the current values and concerns of Arts students at all UMSU Board of Directors meetings and inform Arts students of progress and decisions made thereafter through a monthly newsletter and other forms of social media communication. 
+- Advocate for Arts students’ mental health by spearheading new and improved mental health programming remotely and, if possible, on campus.
+- Facilitate learning outside of the lecture hall by establishing connections between ASBC and other student groups to plan events that promote learning on a variety of topics, specifically those that develop cultural awareness, in new and exciting ways. 
+
+
+
+
+

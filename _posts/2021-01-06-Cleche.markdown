@@ -1,0 +1,19 @@
+---
+layout: post
+title: Cleche Kokolo
+date: 2021-01-22
+description: Accessibility Representative. # Read about our Accessibility Representative and her policies
+img: Cleche.png 
+tags: [Programming, Learn] # add tag
+---
+## Bio
+ I am running for the Accessibility and Wellness Representative position because I see it as a chance to work with stakeholders and students to address accessibility gaps in the Faculty of Arts and introduce concrete and accessible mental health supports and resources for Arts students. As a student who has dedicated many years to community work, I am here to listen to students' needs and find a solution together. 
+No challenge is too big to tackle together.
+
+## Policies
+- Establish a working group with other stakeholders on campus and with Arts students to ensure that a diverse voice is included in identifying accessibility gaps in the Faculty of Arts.
+- Establish more direct mental health services for Faculty of Arts students to reduce barriers to mental health resources.
+- Continue to support mental health initiatives and campaigns in the Faculty of Arts while working with the Director of Academic Programming to reduce accessibility barriers to education.
+
+
+

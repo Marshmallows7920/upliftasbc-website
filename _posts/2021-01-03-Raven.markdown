@@ -1,0 +1,16 @@
+---
+layout: post
+title: Raven Morriseau
+date: 2021-01-27
+description: Indigenous Representative. # Read about our Indigenous Representative and her policies
+img: raven.png # Add image post (optional)
+tags: [Programming, Learn] # add tag
+---
+## Bio
+My name is Raven Morrisseau (she/her), and I am a proud Cree and Metis student from Misipawistik Cree Nation. I am currently in my third year studying political studies and native studies. I am pleased to announce that I will be running with my team Uplift ASBC for the position of Indigenous Representative. As the current Indigenous representative for ASBC I understand the importance of keeping the community connected especially during a virtual setting. This will be implemented by working closely with various Indigenous groups and representatives on events and programs, promoting the Indigenous content requirement to all students with various course options. A plan to focus on the importance of mental health through sharing circles and traditional ways. With this being said, I am confident in my team Uplift ASBC and our abilities to help Arts students. Vote Uplift ASBC and myself as Indigenous representative on March 25 and 26. 
+
+## Policies
+- Work closely with various Indigenous groups and representatives on events and programs
+- Promote the Indigenous content requirement to all students with various course options
+- Focus on the importance of mental health through sharing 
+circles and traditional ways
