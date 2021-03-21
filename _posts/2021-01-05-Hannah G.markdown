@@ -4,7 +4,7 @@ title: Hannah Guenther-Wexler
 date: 2021-01-26
 description: Director of Community Engagement
 img: Hannah G.png # Add image post (optional)
-tags: [Programming, Learn] # add tag
+tags: [Executive] # add tag
 ---
 ## Bio
 

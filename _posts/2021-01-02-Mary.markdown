@@ -4,7 +4,7 @@ title: Mary Mensah
 date: 2021-01-27
 description: Senator. # Read about our Senator and her policies
 img: Mary.png # Add image post (optional)
-tags: [Programming, Learn] # add tag
+tags: [Senator] # add tag
 ---
 ## Bio
 

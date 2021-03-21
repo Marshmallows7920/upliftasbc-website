@@ -4,7 +4,7 @@ title: Jaron Rykiss
 date: 2021-01-28
 description: UMSU Director. # Read about our UMSU Director and his policies
 img: Jaron.png # Add image post (optional)
-tags: [Programming, Learn] # add tag
+tags: [UMSU Director] # add tag
 ---
 ## Bio
 
