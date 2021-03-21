@@ -3,7 +3,7 @@ layout: post
 title: Mary Mensah
 date: 2021-01-27
 description: Senator. # Read about our Senator and her policies
-img: Mary.png # Add image post (optional)
+img: mary.png # Add image post (optional)
 tags: [Senator] # add tag
 ---
 ## Bio

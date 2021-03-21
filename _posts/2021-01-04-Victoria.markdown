@@ -3,7 +3,7 @@ layout: post
 title: Victoria Stutsky
 date: 2021-01-24
 description: Women's Representative. # Read about our Women's Representative and her policies
-img: Victoria.png 
+img: victoria.png 
 tags: [Community Representative] # add tag
 ---
 ## Bio

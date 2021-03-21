@@ -3,7 +3,7 @@ layout: post
 title: Hannah Belec
 date: 2021-01-29
 description: UMSU Director. # Read about our UMSU Director and her policies
-img: Hannah B.png # Add image post (optional)
+img: hannahb.png # Add image post (optional)
 tags: [UMSU Director] # add tag
 ---
 ## Bio

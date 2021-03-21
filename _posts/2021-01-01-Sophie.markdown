@@ -3,7 +3,7 @@ layout: post
 title: Sophie George
 date: 2021-01-28
 description: Senator. # Read about our Senator and her policies
-img: Sophie.png # Add image post (optional)
+img: sophie.png # Add image post (optional)
 tags: [Senator] # add tag
 ---
 ## Bio

@@ -3,7 +3,7 @@ layout: post
 title: Maruf Moshed
 date: 2021-01-31
 description: International Students Representative. # Read about our International Students Representative and his policies
-img: Maruf.png # Add image post (optional)
+img: maruf.png # Add image post (optional)
 tags: [Community Representative] # add tag
 ---
 ## Bio

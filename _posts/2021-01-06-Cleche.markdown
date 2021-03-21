@@ -3,7 +3,7 @@ layout: post
 title: Cleche Kokolo
 date: 2021-01-22
 description: Accessibility Representative. # Read about our Accessibility Representative and her policies
-img: Cleche.png 
+img: cleche.png 
 tags: [Community Representative] # add tag
 ---
 ## Bio
