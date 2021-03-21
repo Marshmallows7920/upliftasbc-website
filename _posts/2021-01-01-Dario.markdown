@@ -4,7 +4,7 @@ title: Dario Duque Giraldo
 date: 2021-01-31
 description: UMSU Director. # Read about our UMSU Director and his policies
 img: Dario.png # Add image post (optional)
-tags: [Programming, Learn] # add tag
+tags: [Community Representative] # add tag
 ---
 ## Bio
 Hello, my name is Dario Duque Giraldo [He/Him/They] and I am a second year Sociology and Religion student in the Faculty of Arts! I am proud to say that I will be running with my team Uplift ASBC for one of the UMSU Director positions representing the Faculty of Arts. I am currently the Racialized Representative for the Art Student Body Council. 

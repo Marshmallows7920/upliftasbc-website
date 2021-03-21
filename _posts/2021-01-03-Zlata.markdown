@@ -4,7 +4,7 @@ title: Zlata Odribets
 date: 2021-01-26
 description: Senator. # Read about our Senator and her policies
 img: Zlata.png # Add image post (optional)
-tags: [Programming, Learn] # add tag
+tags: [Senator] # add tag
 ---
 ## Bio
 

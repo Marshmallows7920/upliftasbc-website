@@ -4,7 +4,7 @@ title: Victoria Stutsky
 date: 2021-01-24
 description: Women's Representative. # Read about our Women's Representative and her policies
 img: Victoria.png 
-tags: [Programming, Learn] # add tag
+tags: [Community Representative] # add tag
 ---
 ## Bio
 Hi there Arts students! My name is Victoria Stutsky (she/her) and I am in my fourth year of Honours Criminology with a minor in Psychology in the Faculty of Arts. I am happy to announce that I am running as Women’s Representative with my team Uplift ASBC in the Arts Student Body Council elections. 

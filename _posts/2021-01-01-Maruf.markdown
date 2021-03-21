@@ -4,7 +4,7 @@ title: Maruf Moshed
 date: 2021-01-31
 description: International Students Representative. # Read about our International Students Representative and his policies
 img: Maruf.png # Add image post (optional)
-tags: [Programming, Learn] # add tag
+tags: [Community Representative] # add tag
 ---
 ## Bio
 My name is Maruf, I am a 2nd year Economics student and I am running to be your International Student Representative of ASBC with my team, Uplift ASBC. I have extensive experience working with international communities and the student councils in university from my time working as a Event Coordinator for UMBSA and if elected, I want to introduce individual advocacy for international arts student - this includes dealing with discrimination, abuse and negligence while maintaining confidentiality, individual sessions to help out students with visa renewals and Canadian tax law information. I also want to host workshops/seminars on cultural diversity to break down cultural differences and set up a platform that gives students the space to feel more interconnected with their community. Finally, I want to address a key communication gap for international students by working with Career Services to connect students to graduates in their respective fields.
