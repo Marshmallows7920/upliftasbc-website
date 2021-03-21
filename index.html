@@ -1,6 +1,58 @@
 ---
 layout: main
 ---
+
+<ul style="      list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+/* background-color: #333; */
+position: sticky;
+top: 0;
+width: 100%;">
+    <li style="float: left;">
+      <a class="active" href="#executive" 
+      style="
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 5px 30px;
+      text-decoration: none;">
+        <div id="nav">
+
+        Executive</a>
+    </li>
+    <li style="float: left;">
+      <a href="#senator" 
+      style="
+      display: block;
+      color: white;
+      background-color: pink;
+      text-align: center;
+      padding: 5px 30px;
+      text-decoration: none;">
+        <div id="nav">
+
+        Senator</a>
+    </li>
+    <!-- <li>
+      <div id="nav">
+      <a id="nav" href="#senator">Senator</a></div>
+    </li>
+    <li>
+      <div id="nav">
+      <a id="nav" href="#umsu">UMSU Director</a></div>
+    </li>
+    <li>
+      <div id="nav">
+      <a id="nav" href="#community">Community Representative</a></div>
+    </li>
+  </div> -->
+  <br /><br /><br /><br />
+</ul>
+
+
+
 {% for post in paginator.posts %}
 <article class="post">
   {% if post.img %}
