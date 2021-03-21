@@ -12,9 +12,9 @@ Hey, Arts students! My name is Jaron Rykiss and I am a second-year philosophy an
 
 ## Policies
 
--Providing lines of communication between the board and the Arts student body
--Emphasize support and resources for students with ADHD and other mental illnesses
--Work to create programming and systems that involve the 
+- Providing lines of communication between the board and the Arts student body
+- Emphasize support and resources for students with ADHD and other mental illnesses
+- Work to create programming and systems that involve the 
 leadership from all faculties, which will heighten the level 
 of involvement across the university.
 
