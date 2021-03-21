@@ -1,6 +1,6 @@
 title: Uplift ASBC
 description: > # this means to ignore newlines until "baseurl:"
-  Uplift ASBC: Your Interests Up High and Up Front
+  Uplift ASBC: Your Voices, Uplifted
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Uplift ASBC # add your name
 author-img: ullogo.png # add your photo
-about-author: Your Interests Up High and Up Front # add description
+about-author: Your Voices, Uplifted # add description
 # social-twitter: # add your Twitter handle
 # social-facebook: # add your Facebook handle
 # social-github: # add your Github handle
