@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hannah Guenther-Wexler
-date: 2021-02-26-01
+date: 2021-02-01
 description: Director of Community Engagement
 img: hannahg.png # Add image post (optional)
 tags: [Executive] # add tag
