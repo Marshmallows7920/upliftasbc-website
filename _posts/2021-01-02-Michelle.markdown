@@ -7,7 +7,7 @@ img: michelle.png # Add image post (optional)
 tags: [UMSU Director] # add tag
 food: umsu
 ---
-## Bio
+
 Hello, My name is Michelle Ko (She/her), and I am a second-year criminology student in the Faculty of Arts. As for my future career, I am planning to pursue Business Law after completion of my B.A. My current position is Social Programmer for the Arts Student Body Council. I am pleased to announce that I will be running for the election this year as UMSU Director position with my amazing team Uplift ASBC. I believe there is a lot I can do for the Arts students. I will be helping the organization create new policies and discuss the matters which are more important for the Arts Students. Some of my main focuses will be related to promoting multicultural awareness and advocate for the U-Pass continuation. I will be speaking on behalf of the Arts students and bring all the issues to the council meeting. I will make sure that the Arts students' voices, and their concerns will be heard and solved through our association. 
 I am confident that me as an UMSU Director, and my team, Uplift ASBC, are the right voices for Arts Students. Vote Uplift ASBC on March 25th and 26th. 
 

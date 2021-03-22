@@ -7,7 +7,6 @@ img: zlata.png # Add image post (optional)
 tags: [Senator] # add tag
 food: senator
 ---
-## Bio
 
 Hi fellow Arts Students! My name is Zlata, and I’m in my third year at the U of M, double majoring in linguistics and English literature. I’m really excited to be running for Senator with my incredible team, Uplift ASBC! I am currently the President of my sorority, Alpha Gamma Delta, hold the VP Events position of Linguistic-ISH, serve as the Director of Academic Programming of EFTSA, and sit on The Arts Tribune team as the Managing Editor. I am also honoured to be one of the Ambassadors of our Faculty. My experience with studying two very distinct fields within the Faculty of Arts will allow me to understand the wants and needs of our diverse community, and the skills I’ve acquired through extensive involvement in various student clubs and councils will enable me to represent them well and make individual student voices heard at the faculty level. I’m also a proud International student from Ukraine, and I’m ready to bring my personal experiences and struggles as one into the Senator position. I know I have the most amazing team who I can completely count on to represent our faculty, and I can’t wait for you to vote Uplift ASBC on March 25 and 26!
 

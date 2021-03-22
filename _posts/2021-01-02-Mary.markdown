@@ -6,7 +6,7 @@ description: Senator # Read about our Senator and her policies
 img: mary.png # Add image post (optional)
 tags: [Senator] # add tag
 ---
-## Bio
+
 
 Hello everyone! My name is Mary and I am a Political Studies Student! I’m running to become one of your senators for the upcoming school year with my team, Uplift ASBC. If Elected, I will commit to being approachable and accessible for my fellow Arts students at all times, across all social media platforms. During my time as Senator I will continually hold UMSU accountable, as well as push for priority class enrollment for graduating students. I also want to lobby for trauma sensitivity training to be available for all students as well. I intend for these policies to be number 1 on my agenda for the upcoming school year. If you have any questions, please get in touch with me! Follow us @uplift.asbc or check out our website upliftasbc.com.
 

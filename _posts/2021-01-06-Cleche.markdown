@@ -6,7 +6,7 @@ description: Accessibility Representative # Read about our Accessibility Represe
 img: cleche.png 
 tags: [Community Representative] # add tag
 ---
-## Bio
+
  I am running for the Accessibility and Wellness Representative position because I see it as a chance to work with stakeholders and students to address accessibility gaps in the Faculty of Arts and introduce concrete and accessible mental health supports and resources for Arts students. As a student who has dedicated many years to community work, I am here to listen to students' needs and find a solution together. 
 No challenge is too big to tackle together.
 

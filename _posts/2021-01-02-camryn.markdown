@@ -6,7 +6,7 @@ description: Vice President # Read about our Vice President and her policies
 img: camryn.png # Add image post (optional)
 tags: [Executive] # add tag
 ---
-## Bio
+
 Hello Art Students! My name is Camryn Anderson (she/her) and I am a fourth year political studies student in the Faculty of Arts. I am pleased to announce that I will be running with my team Uplift ASBC for the position of Vice President. As a current UMSU Director for ASBC I have learned the importance of providing support to students in a virtual setting and I am excited to continue this in the next term. This will be implemented by growing ASBC’s Holiday Relief Fund to twice a year, engaging with students wanting to get involved with ASBC through the Director of Community Engagement and expanding mental health resources by connecting the University with different resources. With this in mind, I am excited for what Uplift ASBC can do for arts students and confident in our abilities. 
 
 Vote Uplift ASBC and myself as Vice President on March 25 and 26.

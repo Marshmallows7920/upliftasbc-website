@@ -6,7 +6,7 @@ description: UMSU Director # Read about our UMSU Director and her policies
 img: hannahb.png # Add image post (optional)
 tags: [UMSU Director] # add tag
 ---
-## Bio
+
 
 Hello everyone! My name is Hannah Belec (she/her), and I am a second-year history honours student in the Faculty of Arts. 
 I am delighted to announce that I will be running for the position of UMSU Director with my team Uplift ASBC. 

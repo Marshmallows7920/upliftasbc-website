@@ -6,7 +6,7 @@ description: Director of Community Engagement
 img: hannahg.png # Add image post (optional)
 tags: [Executive] # add tag
 ---
-## Bio
+
 
 Hello Art Students! My name is Hannah Guenther-Wexler (she/her) and I am a fourth year political studies student in the Faculty of Arts. I am pleased to announce that I will be running with my team Uplift ASBC for the position of Director of Community Engagement. 
 As a current Vice President Internal for the Undergraduate Political Studies Student Association (UPSSA) I have learned the importance of creating a sense of community for students in a virtual setting and I am excited to continue this as the Director of Community engagement by engaging with students wanting to get involved with ASBC. 

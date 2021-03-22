@@ -8,8 +8,6 @@ fig-caption: # Add figcaption (optional)
 tags: [Executive]
 food: executive
 ---
-## Bio
-
 Hello Arts students!
 
 Hope you are doing well. My name is Fardeen Zareef and I am a 3rd year Economics Student in the Faculty of Arts. It gives me great pleasure to announce that I am running to be your Arts Student Body Council President along with my team Uplift ASBC.As the current Co-Director of Communications for ASBC, I have had the honour of working in most of the core ASBC projects with improving engagement being the main focus. I firsthand got to experience and understand what our students want and expect from their student body. As an international student and a person of colour, I identify with the gap in communication and engagement for marginalized students and I am aware of the importance and need to provide support for our students especially as we tackle these unprecedented times together. It would be our honour to carry forward and expand on the work that ASBC has done so far.
