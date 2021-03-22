@@ -1129,10 +1129,13 @@ footer .copyright {
 }
 
 .post:hover {
-  -webkit-transform: translate(0px, -2px);
-      -ms-transform: translate(0px, -2px);
-          transform: translate(0px, -2px);
-  -webkit-box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
+  /* -webkit-transform: translate(0px, -2px); */
+      /* -ms-transform: translate(0px, -2px); */
+          /* transform: translate(0px, -2px); */
+          -webkit-transform: scale(0.9);
+          -ms-transform: scale(0.9);
+              transform: scale(0.9);
+          -webkit-box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
           box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
 }
 
