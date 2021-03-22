@@ -90,28 +90,50 @@
   <style>
     ul.nav {
       list-style-type: none;
-      margin: 0;
+      margin: auto;
       padding: 0;
       overflow: hidden;
-      /* background-color: #333; */
+      /* background-color: rgba(246, 185, 248, 0.507); */
       position: sticky;
       top: 0;
       width: 100%;
-      align-self: center;
       z-index: 100;
     }
     
     ul.nav li{
       float: left;
+      /* display: inline-block; */
+      /* text-align: center; */
+      /* margin: 6px; */
+      /* justify-content: center; */
+      /* flex-wrap: wrap; */
     }
+    /* Small Devices, Tablets */
+@media only screen and (max-width: 768px) {
+
+  ul.nav li{
+      float: none;
+    }
+
+}
     
     ul.nav li a{
       display: block;
       color: white;
       background-color: #B792B1;
       text-align: center;
-      padding: 5px 30px;
+      padding: 5px 60px;
       text-decoration: none;
+    }
+
+    ul.nav a{
+      display: block;
+      color: white;
+      background-color: #B792B1;
+      text-align: center;
+      padding: 5px 60px;
+      text-decoration: none;
+      font-family: Arial, Helvetica, sans-serif;
     }
     
     ul.nav li a:hover:not(.active){
@@ -120,6 +142,19 @@
     
     ul.nav li a.active{
       background-color: #9932CC;
+    }
+
+    a.icon {
+      font-size: large;
+      color: white;
+      background-color: #B792B1;
+      text-align: center;
+      padding: 5px 60px;
+      text-decoration: none;
+    }
+
+    div#bars {
+      display: none;
     }
     </style>
 
