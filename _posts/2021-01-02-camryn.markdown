@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Camryn Anderson
-date: 2021-01-29
+date: 2021-02-04
 description: Vice President # Read about our Vice President and her policies
 img: camryn.png # Add image post (optional)
 tags: [Executive] # add tag

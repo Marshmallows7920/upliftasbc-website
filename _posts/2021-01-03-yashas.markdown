@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Yashas Samtani
-date: 2021-01-28
-description: Director of Academic Programming. # Read about our Director of Academic Programming and his policies
+date: 2021-02-03
+description: Director of Academic Programming # Read about our Director of Academic Programming and his policies
 img: yashas.png # Add image post (optional)
 tags: [Executive] # add tag
 ---

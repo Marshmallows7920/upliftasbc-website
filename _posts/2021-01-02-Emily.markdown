@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Emily Green
-date: 2021-01-28
-description: 2SLGBTTQ+ Representative. # Read about our 2SLGBTTQ+ Representative and her policies
+date: 2021-01-30
+description: 2SLGBTTQ+ Representative # Read about our 2SLGBTTQ+ Representative and her policies
 img: emily.png # Add image post (optional)
 tags: [Community Representative] # add tag
 ---

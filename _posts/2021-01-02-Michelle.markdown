@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Michelle Ko
-date: 2021-01-30
-description: UMSU Director. # Read about our UMSU Director and her policies
+date: 2021-01-25
+description: UMSU Director # Read about our UMSU Director and her policies
 img: michelle.png # Add image post (optional)
 tags: [UMSU Director] # add tag
 food: umsu

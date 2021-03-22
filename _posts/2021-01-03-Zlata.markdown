@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Zlata Odribets
-date: 2021-01-26
-description: Senator. # Read about our Senator and her policies
+date: 2021-01-21
+description: Senator # Read about our Senator and her policies
 img: zlata.png # Add image post (optional)
 tags: [Senator] # add tag
 food: senator

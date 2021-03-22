@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jaron Rykiss
-date: 2021-01-28
+date: 2021-01-22
 description: UMSU Director. # Read about our UMSU Director and his policies
 img: jaron.png # Add image post (optional)
 tags: [UMSU Director] # add tag

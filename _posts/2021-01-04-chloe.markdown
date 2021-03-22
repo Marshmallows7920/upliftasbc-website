@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chloe Dreilich-Girard
-date: 2021-01-27
+date: 2021-02-02
 description: Director of Social Programming # Add post description (optional)
 img: chloe.png # Add image post (optional)
 tags: [Executive] # add tag
