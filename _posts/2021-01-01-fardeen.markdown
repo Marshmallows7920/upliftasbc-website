@@ -6,7 +6,7 @@ description: President # Read about our President and his policies
 img: zareef.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Executive]
-id: executive
+food: executive
 ---
 ## Bio
 
